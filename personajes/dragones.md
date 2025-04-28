@@ -1,1 +1,3 @@
 # DRAGONES
+
+Un dragón es una criatura legendaria que típicamente se representa como un reptil grande y poderoso, a menudo alado y capaz de escupir fuego. Sin embargo, las descripciones varían significativamente entre las diferentes culturas. En las tradiciones occidentales, suelen ser vistos como monstruos malvados que deben ser derrotados, mientras que en las orientales, a menudo simbolizan poder, buena fortuna y sabiduría.
