@@ -17,3 +17,12 @@ Las características de las hadas son increíblemente diversas y a menudo contra
     Dificultad con el hierro: En muchas tradiciones, el hierro es dañino o repulsivo para las hadas, y se utiliza como protección contra ellas.
     Sensibilidad a ciertos nombres o rituales: A veces, conocer el verdadero nombre de un hada le otorga poder sobre ella, y ciertos rituales o conjuros pueden invocarlas o repelerlas.
 
+# Orígenes:
+
+Los orígenes de las creencias en las hadas son complejos y se remontan a diversas fuentes:
+
+    Mitologías precristianas: Se cree que las hadas tienen sus raíces en las creencias paganas en espíritus de la naturaleza, dioses menores o los restos de antiguas deidades que fueron degradadas en la era cristiana.
+    Creencias en los muertos: Algunas teorías sugieren que las hadas podrían haber surgido de creencias en los espíritus de los muertos, especialmente aquellos que no habían vivido una vida plena o que habían muerto de forma repentina.
+    Personificación de la naturaleza: Las hadas a menudo se ven como personificaciones de las fuerzas de la naturaleza, explicando fenómenos naturales o representando el espíritu de lugares específicos.
+    Folclore celta y germánico: Las tradiciones celtas (como los sidhe irlandeses y escoceses) y germánicas (como los álfar nórdicos, que evolucionaron hacia la concepción de los elfos y las hadas) son fuentes importantes de las creencias en las hadas.
+    Cuentos populares y literatura: A lo largo de la historia, los cuentos populares y la literatura han dado forma y difundido las imágenes de las hadas, desde las baladas medievales hasta los cuentos de hadas de la época victoriana y la literatura fantástica moderna. Autores como William Shakespeare ("El sueño de una noche de verano") y los hermanos Grimm contribuyeron a popularizar ciertas representaciones.
