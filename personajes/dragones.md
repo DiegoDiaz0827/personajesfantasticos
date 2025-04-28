@@ -15,3 +15,13 @@ Las características de los dragones son diversas y dependen de la tradición cu
     Inteligencia: A menudo se les representa como criaturas inteligentes, capaces de hablar, razonar y acumular vastos conocimientos y tesoros.
     Longevidad: Los dragones suelen ser seres de gran longevidad, viviendo durante siglos o incluso siendo inmortales.
     Asociación con tesoros: En muchas leyendas occidentales, los dragones son guardianes de tesoros, acumulando oro, joyas y artefactos valiosos en sus guaridas.
+
+# Orígenes:
+
+Los orígenes de las leyendas de dragones son multifacéticos y se encuentran en diversas fuentes:
+
+    Mitología antigua: Historias de criaturas serpentinas gigantes y monstruos poderosos existen en las mitologías de muchas culturas antiguas, como el Leviatán en la tradición hebrea, la serpiente Apofis en la mitología egipcia y la Pitón en la mitología griega.
+    Interpretación de fósiles: El descubrimiento de huesos de dinosaurios y otros animales prehistóricos pudo haber inspirado las descripciones de dragones gigantes.
+    Miedo a las serpientes: El miedo instintivo a las serpientes grandes y venenosas pudo haber sido exagerado en las narrativas, dando lugar a la figura del dragón.
+    Simbolismo cultural: En diferentes culturas, los dragones han adquirido significados simbólicos diversos. En China, por ejemplo, el dragón (Long) es un símbolo de poder imperial, buena fortuna, sabiduría y el yang. En Europa, a menudo se les asocia con el caos, la destrucción y la maldad, representando desafíos que los héroes deben superar.
+    Bestiarios medievales: Durante la Edad Media, los bestiarios europeos incluían descripciones de dragones, a menudo mezclando elementos de la mitología clásica con observaciones de animales reales y la imaginación.
