@@ -15,3 +15,12 @@ Las características de los elfos varían considerablemente según la tradición
     Belleza etérea: A menudo se les describe con una belleza que parece ir más allá de lo mortal, con rasgos delicados y una presencia luminosa.
     Sabiduría y conocimiento: Dada su larga vida, se les atribuye una gran sabiduría y un profundo conocimiento del mundo.
     Organización social: En muchas ficciones, los elfos viven en sociedades complejas con sus propias culturas, tradiciones y jerarquías.
+
+# Orígenes:
+
+Los orígenes de las creencias en los elfos se encuentran en las antiguas mitologías germánica y nórdica:
+
+    Mitología nórdica: En la mitología nórdica, los elfos (álfar) se dividían generalmente en dos grupos: los ljósálfar (elfos de la luz), asociados con la belleza y la luz, y los dökkálfar (elfos oscuros) o svartálfar (elfos negros), que vivían bajo tierra y a menudo se asociaban con la artesanía y la magia oscura. Estos seres eran considerados poderosos y a veces peligrosos, capaces de influir en la vida de los humanos.
+    Folclore germánico: En el folclore germánico, las creencias en los elfos persistieron durante mucho tiempo, a menudo mezclándose con otras criaturas feéricas. Se les atribuían tanto actos benévolos como malévolos, y se creía que podían causar enfermedades o conceder favores.
+    Influencia literaria: La imagen moderna de los elfos se ha moldeado significativamente por la literatura fantástica. Autores como J.R.R. Tolkien en "El Señor de los Anillos" popularizaron la visión de los elfos como seres altos, bellos, inmortales (o de larga vida), sabios y con una profunda conexión con la naturaleza, estableciendo un estándar para muchas representaciones posteriores. Otros autores como Lord Dunsany y William Morris también contribuyeron a la concepción moderna del elfo.
+    Cuentos de hadas: Los elfos también aparecen en muchos cuentos de hadas europeos, aunque a veces se confunden con otras criaturas feéricas como las hadas y los gnomos.
