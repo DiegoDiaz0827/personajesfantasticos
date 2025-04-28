@@ -25,3 +25,17 @@ Los orígenes de las leyendas de dragones son multifacéticos y se encuentran en
     Miedo a las serpientes: El miedo instintivo a las serpientes grandes y venenosas pudo haber sido exagerado en las narrativas, dando lugar a la figura del dragón.
     Simbolismo cultural: En diferentes culturas, los dragones han adquirido significados simbólicos diversos. En China, por ejemplo, el dragón (Long) es un símbolo de poder imperial, buena fortuna, sabiduría y el yang. En Europa, a menudo se les asocia con el caos, la destrucción y la maldad, representando desafíos que los héroes deben superar.
     Bestiarios medievales: Durante la Edad Media, los bestiarios europeos incluían descripciones de dragones, a menudo mezclando elementos de la mitología clásica con observaciones de animales reales y la imaginación.
+
+ # Habilidades:
+
+Las habilidades atribuidas a los dragones son tan variadas como sus descripciones, pero algunas comunes incluyen:
+
+    Aliento elemental: La capacidad de exhalar fuego es la más conocida, pero también pueden tener alientos de hielo, veneno, ácido, electricidad o incluso aliento mágico.
+    Vuelo: Gracias a sus alas (en la tradición occidental) o a la magia (en la oriental), pueden surcar los cielos a gran velocidad.
+    Fuerza física sobrehumana: Son capaces de infligir una gran destrucción con sus garras, dientes y colas.
+    Escamas impenetrables: Su piel escamosa ofrece una gran resistencia a las armas y a otros ataques.
+    Magia: Muchos dragones son seres mágicos por naturaleza y pueden poseer una variedad de hechizos y habilidades mágicas.
+    Cambio de forma: En algunas leyendas, los dragones pueden transformarse en otras formas, a menudo humanas.
+    Inteligencia y sabiduría: Son criaturas astutas y longevas, acumulando un vasto conocimiento a lo largo de los siglos.
+    Comunicación: Pueden hablar con humanos y otras criaturas, a menudo con una voz poderosa y resonante.
+    Sentidos agudizados: Al igual que los vampiros, pueden tener una vista, oído y olfato excepcionalmente desarrollados.
