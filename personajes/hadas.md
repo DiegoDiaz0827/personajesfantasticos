@@ -26,3 +26,18 @@ Los orígenes de las creencias en las hadas son complejos y se remontan a divers
     Personificación de la naturaleza: Las hadas a menudo se ven como personificaciones de las fuerzas de la naturaleza, explicando fenómenos naturales o representando el espíritu de lugares específicos.
     Folclore celta y germánico: Las tradiciones celtas (como los sidhe irlandeses y escoceses) y germánicas (como los álfar nórdicos, que evolucionaron hacia la concepción de los elfos y las hadas) son fuentes importantes de las creencias en las hadas.
     Cuentos populares y literatura: A lo largo de la historia, los cuentos populares y la literatura han dado forma y difundido las imágenes de las hadas, desde las baladas medievales hasta los cuentos de hadas de la época victoriana y la literatura fantástica moderna. Autores como William Shakespeare ("El sueño de una noche de verano") y los hermanos Grimm contribuyeron a popularizar ciertas representaciones.
+
+# Habilidades:
+
+Las habilidades atribuidas a las hadas son tan variadas como sus descripciones, pero algunas comunes incluyen:
+
+    Magia: Esta es su habilidad más distintiva, con la capacidad de lanzar hechizos, conceder deseos, crear ilusiones, cambiar el clima y manipular los elementos naturales.
+    Vuelo: Muchas hadas pueden volar, ya sea gracias a sus alas o por medios mágicos.
+    Cambio de forma: Pueden transformarse en animales, objetos o incluso en diferentes formas humanas.
+    Invisibilidad: La capacidad de volverse invisibles a voluntad es una habilidad común.
+    Telepatía y clarividencia: Algunas hadas pueden leer mentes, predecir el futuro o tener otras formas de percepción extrasensorial.
+    Curación: Pueden poseer habilidades curativas, utilizando hierbas mágicas, encantamientos o su propio poder para sanar enfermedades y heridas.
+    Manipulación del clima: Algunas tradiciones les atribuyen la capacidad de controlar el viento, la lluvia, el sol y otros aspectos del clima.
+    Protección de la naturaleza: Como espíritus de la naturaleza, pueden tener poderes para proteger los bosques, los ríos y otros lugares naturales de la destrucción.
+    Conceder buena o mala fortuna: Dependiendo de su temperamento, las hadas pueden bendecir a los humanos con buena suerte y prosperidad, o maldecirlos con desgracias.
+    Influir en los sueños: Se dice que algunas hadas pueden entrar en los sueños de los humanos, inspirándolos o atormentándolos.
